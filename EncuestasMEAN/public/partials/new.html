@@ -1,0 +1,9 @@
+&lt;div class="page-header"&gt; &lt;h1&gt;Create New Poll&lt;/h1&gt; &lt;/div&gt; &lt;form role="form" ng-submit="createPoll()"&gt; &lt;div class="formgroup"&gt;
+&lt;label for="pollQuestion"&gt;Question&lt;/label&gt; &lt;input type="text" ng-model="poll.question" class="form-control" id="pollQuestion"
+ placeholder="Enter poll question"&gt; &lt;/div&gt; &lt;div class="form-group"&gt; &lt;label&gt;Choices&lt;/label&gt; &lt;div ng-repeat="choice in
+ poll.choices"&gt; &lt;input type="text" ng-model="choice.text" class="form-control" placeholder="Enter choice {{$index+1}} text"&gt;&lt;br&gt; &lt;/div&gt;
+ &lt;/div&gt; &lt;div class="row"&gt; &lt;div class="col-xs-12"&gt; &lt;button type="button" class="btn btn-default" ng-click= "addChoice()"&gt;&lt;span
+ class="glyphicon glyphicon-plus"&gt; &lt;/span&gt; Add another&lt;/button&gt; &lt;/div&gt; &lt;/div&gt; &lt;p&gt;&lt;hr&gt;&lt;/p&gt; &lt;div
+ class="row"&gt; &lt;div class="col-xs-6"&gt; &lt;a href="#/polls" class="btn btn-default" role="button"&gt; &lt;span class="glyphicon glyphicon-arrowleft"&gt;&lt;/span&gt;
+Back to Poll List&lt;/a&gt; &lt;/div&gt; &lt;div class="col-xs-6"&gt; &lt;button class="btn btn-primary pull-right" type="submit"&gt;
+ Create Poll &amp;raquo;&lt;/button&gt; &lt;/div&gt; &lt;/div&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;/form&gt;

@@ -1,0 +1,46 @@
+<ul class="nav nav-tabs">
+	<li ng-class="{ active:panel.isSelected(1)}"><a href="" ng-click="panel.selectTab(1)">Description</a></li>
+	<li ng-class="{ active:panel.isSelected(2)}"><a href="" ng-click="panel.selectTab(2)">Specifications</a></li>
+	<li ng-class="{ active:panel.isSelected(3)}"><a href="" ng-click="panel.selectTab(3)">Reviews</a></li>
+</ul>
+
+<div class="panel" ng-show= "panel.isSelected(1)">
+	<h4>Description</h4>
+	<p>{{product.description}}</p>
+</div>
+<div class="panel" ng-show="panel.isSelected(2)">
+	<h4>Specifications</h4>
+	<blockquote>None yet</blockquote>
+</div>
+<div class="panel" ng-show="panel.isSelected(3)">
+	<h4>Reviews</h4>
+	<form class="form-horizontal" name="reviewForm" ng-controller="ReviewController as rCtrl" ng-submit="reviewForm.$valid && rCtrl.addReview(product)" novalidate>
+		<blockquote ng-repeat="review in product.reviews">
+			<b>Stars: {{review.stars}}</b>
+			{{review.body}}
+			<cite>by: {{review.author}}</cite>
+		</blockquote>
+		<div class="form-group">
+			<label for="stars">Rate product: </label>
+			<select ng-model="rCtrl.review.stars" class="form-control" id="stars" required>
+				<option value="1">1 stars</option>
+				<option value="2">2 stars</option>
+				<option value="3">3 stars</option>
+				<option value="4">4 stars</option>
+				<option value="5">5 stars</option>
+		</select>
+		</div>	
+		<div class="form-group">
+			<label for="comments">Add your product comment</label>
+			<textarea ng-model="rCtrl.review.body" id="comments" cols="30" rows="10" class="form-control" placeholder="Add your comment" required></textarea>
+		</div>
+		<div class="form-group">
+			<label for="email">Please add your email</label>
+			<input ng-model="rCtrl.review.author" class="form-control" type="email" placeholder="email@example.com" required>
+		</div>
+		<div class="well"> reviewForm is {{reviewForm.$valid}}</div>
+		<div class="form-group pull-right">
+			<input class="form-control btn btn-primary" type="submit" value="Send Review">
+		</div>						
+	</form>					
+</div>

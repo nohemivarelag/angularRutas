@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html ng-app="store" >
+<head>
+	<title>Flatlander Store</title>
+	
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<!--<div class="container" ng-controller="StoreController as store">
+		<div class="row" ng-hide="!store.product.name">
+			<h1>Product Name: {{store.product.name}}</h1>
+			<h2>Product Price:${{store.product.price}}</h2>
+			<p>Product Description: {{store.product.description}}</p>
+			<button class="btn btn-default" ng-show="!store.product.canPurchase">Add to cart</button>
+		</div>
+	</div>-->
+	<div class="container-fluid" ng-controller="StoreController as store">
+		<ul class="list-group">
+			<li class="list-group-item" ng-repeat="product in store.products">
+				<h3>
+					<product-title><product-title/>
+				</h3>
+				<div class="text-center">
+					<img ng-src="{{product.images[0].full}}" alt="" height="150" width="150">
+				</div>
+				<section ng-init="panel.tab">
+					<product-panels></product-panels>					
+				</section >
+				
+			</li>
+		</ul>
+	</div>
+
+
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+	<script src="js/app.js"></script>
+</body>
+</html>

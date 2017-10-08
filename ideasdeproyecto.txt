@@ -1,0 +1,17 @@
+Ideas para proyecto:
+	1. app agenda, que permita registrar las tareas a realizar por cada dia
+	2. app que guarde contraseñas de las cuentas de redes sociales o paginas 
+		web y permita acceder desde ellas
+	3. app que muestre ayuda o una guia de como generar un correo segun el 
+		contexto en el que se requiera
+	4. app calendario, que muestre fechas de eventos del tecnologico
+	5. app turismo, muestre lugares turisticos en chihuahua
+	6. app lugares, que muestre por categorias los lugares en chihuahua
+		p ej: restaurantes, bares, etc
+	7. app tienda mama-bebe, comercio de articulos especiales 
+		necesarios / utiles para el embarazo y los primeros meses del bebe
+	8. invernadero movil para casas
+	9. maseta con riego programado y controlador de humedad
+	10. app para planeacion de bodas, que muestre por categorias cada cosa que
+		sea necesaria o pudiera haber en una boda e incluya publicidad de 
+		lugares / personas que puedan suplir cada necesidad

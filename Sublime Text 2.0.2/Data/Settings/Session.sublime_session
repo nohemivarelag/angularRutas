@@ -1,0 +1,1100 @@
+{
+	"folder_history":
+	[
+		"/E/9no/Programacion CS/todoapp",
+		"/E/9no/Programacion CS/angularRUTAS",
+		"/E/Angular",
+		"/E/9no/Programacion CS/almacenJS",
+		"/C/Users/Nohemi/Desktop/ApiRest",
+		"/C/Users/Nohemi/Desktop/ApiRest/NOHEMIAPI",
+		"/C/Users/Nohemi/Desktop/ApiRest/NOHEMIAPI/models",
+		"/E/9no/Programacion CS/workNodeJS",
+		"/C/NOHEMIAPI",
+		"/E/9no/Programacion CS/macJS",
+		"/C/ClienteServidor",
+		"/E/flatStore",
+		"/D/flatStore",
+		"/C/Users/Nohemi/Desktop/proyecto",
+		"/C/Users/Nohemi/proyecto/ProyectoFinalSonghop/songhop",
+		"/E/Taller",
+		"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/flatStore",
+		"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Angular Exercises",
+		"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Angular Exercises/Exercise",
+		"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30",
+		"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises",
+		"/D/Exercises",
+		"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/workspace/Glossary",
+		"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/bootstrapex",
+		"/C/Users/Nohemi/Desktop/Nueva carpeta",
+		"/D/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30",
+		"/D/workspace",
+		"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master",
+		"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30",
+		"/D/workspace/unit II",
+		"/D/workspace/Glossary",
+		"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles",
+		"/D/work_space",
+		"/D/VarelaGonzalezNohemiBerenice_13550649_unit1HTML5",
+		"/D/VarelaGonzalezNohemiBerenice_13550649_unit1HTML5/Excercise1",
+		"/D/VarelaGonzalezNohemiBerenice_13550649_unit1HTML5/Excercise7",
+		"/D/VarelaGonzalezNohemiBerenice_13550649_unit1HTML5/Excercise4",
+		"/D/VarelaGonzalezNohemiBerenice_13550649_unit1HTML5/Excercise2",
+		"/D/VarelaGonzalezNohemiBerenice_13550649_unit1HTML5/Excercise8",
+		"/D/VarelaGonzalezNohemiBerenice_13550649_unit1HTML5/Excercise6",
+		"/D/VarelaGonzalezNohemiBerenice_13550649_unit1HTML5/Excercise5",
+		"/D/VarelaGonzalezNohemiBerenice_13550649_unit1HTML5/Excercise3",
+		"/D/respaldo nohemi/HTML5",
+		"/D/respaldo nohemi/zoror",
+		"/E/Exercise3",
+		"/E/HTML5"
+	],
+	"last_window_id": 104,
+	"settings":
+	{
+		"new_window_height": 216.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pro",
+						"product"
+					],
+					[
+						"produ",
+						"productStored"
+					],
+					[
+						"product",
+						"product"
+					],
+					[
+						"s",
+						"status"
+					],
+					[
+						"pr",
+						"price"
+					],
+					[
+						"produc",
+						"product"
+					],
+					[
+						"Pr",
+						"ProductSchema"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"find",
+						"findById"
+					],
+					[
+						"p",
+						"product"
+					],
+					[
+						"fin",
+						"findById"
+					],
+					[
+						"b",
+						"body"
+					],
+					[
+						"get",
+						"getProducts"
+					],
+					[
+						"re",
+						"req"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"bo",
+						"bodyParser"
+					],
+					[
+						"tarea",
+						"tareaNueva"
+					],
+					[
+						"ta",
+						"tareasViejas"
+					],
+					[
+						"tare",
+						"tareasViejas"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"revi",
+						"reviews"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"mari",
+						"margin"
+					],
+					[
+						"ali",
+						"vertical-align"
+					],
+					[
+						"borders",
+						"border-left-style"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"pad",
+						"padding-right"
+					],
+					[
+						"f",
+						"font-family"
+					],
+					[
+						"paddi",
+						"padding-left"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"padi",
+						"padding-bottom"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"bottom",
+						"padding-bottom"
+					],
+					[
+						"bordercol",
+						"border-color"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"bak",
+						"background-color"
+					],
+					[
+						"ba",
+						"background-color"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 390.0,
+				"selected_items":
+				[
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 50.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/9no/Programacion CS/angularRUTAS/main.js",
+				"/E/9no/Programacion CS/todoapp/public/index.html",
+				"/E/9no/Programacion CS/todoapp/server.js",
+				"/E/9no/Programacion CS/todoapp/public/core.js",
+				"/E/9no/Programacion CS/todoapp/package.json",
+				"/E/9no/Programacion CS/almacenJS/index.js",
+				"/E/flatStore/index.html",
+				"/E/9no/Programacion CS/workNodeJS/package.json",
+				"/C/Users/Nohemi/Desktop/proyecto/ProyectoFinalSonghop/songhop/www/templates/discover.html",
+				"/C/Users/Nohemi/Desktop/proyecto/ProyectoFinalSonghop/songhop/www/js/controllers.js",
+				"/C/Users/Nohemi/Desktop/proyecto/ProyectoFinalSonghop/songhop/www/js/services.js",
+				"/C/Users/Nohemi/Desktop/proyecto/ProyectoFinalSonghop/songhop/www/js/app.js",
+				"/C/Users/Nohemi/Desktop/proyecto/ProyectoFinalSonghop/songhop/www/index.html",
+				"/C/Users/Nohemi/Desktop/proyecto/ProyectoFinalSonghop/songhop/scss/ionic.app.scss",
+				"/C/Users/Nohemi/proyecto/ProyectoFinalSonghop/songhop/www/templates/discover.html",
+				"/C/Users/Nohemi/proyecto/ProyectoFinalSonghop/songhop/www/js/controllers.js",
+				"/C/Users/Nohemi/proyecto/ProyectoFinalSonghop/songhop/www/js/services.js",
+				"/C/Users/Nohemi/proyecto/ProyectoFinalSonghop/songhop/www/js/app.js",
+				"/C/Users/Nohemi/proyecto/ProyectoFinalSonghop/songhop/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Angular Exercises/Exercise 1/public/package.json",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Angular Exercises/Exercise 1/js/books.js",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Angular Exercises/Exercise 1/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Angular Exercises/Exercise 1/package.js",
+				"/D/Exercises/css/style1.css",
+				"/D/Exercises/Excercises9.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 6/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 7/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 5/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/workspace/Glossary/css/each.css",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/zoror/css/style.css",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/zoror/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 4/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 3/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 2/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 1/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/bootstrapex/badged-labels.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 1/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 1/css/main.css",
+				"/C/Users/Nohemi/Desktop/navbar.html",
+				"/C/Users/Nohemi/Desktop/inputs.html",
+				"/C/Users/Nohemi/Desktop/forms.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/bootstrapex/icons.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/bootstrapex/tables.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/bootstrapex/jumbotron.html",
+				"/D/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/30.whack-js/index.html",
+				"/D/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/29.countdown-js/index.html",
+				"/D/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/28.controller-js/index.html",
+				"/D/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/27.click-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/29 - Countdown Timer/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/29 - Countdown Timer/scripts-FINISHED.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/29 - Countdown Timer/style.css",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/28 - Video Speed Controller/style.css",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/28 - Video Speed Controller/index-FINISHED.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/27 - Click and Drag/style.css",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/27 - Click and Drag/index-FINISHED.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/25.event-js/js/event.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/25.event-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/26.stripe-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/24.sicky-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/23.synthesis-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/22.follow-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/21.geolocation-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/20.speech-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/19.webcam-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/18.addingup-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/17.sort-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/16.mousemove-js/index.html",
+				"/D/workspace/Glossary/css/each.css",
+				"/D/workspace/Glossary/start.html",
+				"/D/workspace/Glossary/span.html",
+				"/D/workspace/Glossary/replace.html",
+				"/D/workspace/Glossary/video.html",
+				"/D/workspace/Glossary/option.html",
+				"/D/workspace/Glossary/object.html",
+				"/D/workspace/Glossary/nav.html",
+				"/D/workspace/Glossary/label.html",
+				"/D/workspace/Glossary/kbd.html",
+				"/D/workspace/Glossary/input.html",
+				"/D/workspace/Glossary/form.html",
+				"/D/workspace/Glossary/em.html",
+				"/D/workspace/Glossary/document.html",
+				"/D/workspace/Glossary/div.html",
+				"/D/workspace/Glossary/canvas.html",
+				"/D/workspace/Glossary/button.html",
+				"/D/workspace/Glossary/audio.html",
+				"/D/workspace/Glossary/array.html",
+				"/D/workspace/Glossary/css/style.css",
+				"/D/workspace/Glossary/apply.html",
+				"/D/VarelaGonzalezNohemiBerenice_13550649_unit1HTML5/Excercise1/index.html",
+				"/D/workspace/unit II/bootstrapex/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/26.stripe-js/js/stripe.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/24.sicky-js/js/sticky.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/23.synthesis-js/js/synthesis.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/22.follow-js/js/follow.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/21.geolocation-js/js/geolocation.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/20.speech-js/js/speech.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/19.webcam-js/js/webcam.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/18.addingup-js/js/addingup.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/17.sort-js/js/sort.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/16.mousemove-js/js/mousemove.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/15.localstorage-js/js/localstorage.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/15.localstorage-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/14.references-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/14.references-js/js/references.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/13.slide-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/13.slide-js/js/slide.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/12.key-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/12.key-js/js/key.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/10.checkboxes-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/10.checkboxes-js/js/checkboxes.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/9.devtools-js/js/devtools.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/9.devtools-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/8.html5-js/js/html5.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/8.html5-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/7.cardio2-js/js/cardio2.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/7.cardio2-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/6.type-js/js/type.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/6.type-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/5.gallery-js/js/gallery.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/5.gallery-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/4.cardio1-js/js/cardio1.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/4.cardio1-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/3.variables-js/js/variables.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/3.variables-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/2.clock-js/css/style.css",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/2.clock-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/2.clock-js/js/clock.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/1.drum-js/css/style.css"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"img",
+					" \n",
+					"jpg",
+					"canvas",
+					";\n",
+					"\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 133.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 602.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pro",
+						"product"
+					],
+					[
+						"produ",
+						"productStored"
+					],
+					[
+						"product",
+						"product"
+					],
+					[
+						"s",
+						"status"
+					],
+					[
+						"pr",
+						"price"
+					],
+					[
+						"produc",
+						"product"
+					],
+					[
+						"Pr",
+						"ProductSchema"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"find",
+						"findById"
+					],
+					[
+						"p",
+						"product"
+					],
+					[
+						"fin",
+						"findById"
+					],
+					[
+						"b",
+						"body"
+					],
+					[
+						"get",
+						"getProducts"
+					],
+					[
+						"re",
+						"req"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"bo",
+						"bodyParser"
+					],
+					[
+						"tarea",
+						"tareaNueva"
+					],
+					[
+						"ta",
+						"tareasViejas"
+					],
+					[
+						"tare",
+						"tareasViejas"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"revi",
+						"reviews"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"mari",
+						"margin"
+					],
+					[
+						"ali",
+						"vertical-align"
+					],
+					[
+						"borders",
+						"border-left-style"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"pad",
+						"padding-right"
+					],
+					[
+						"f",
+						"font-family"
+					],
+					[
+						"paddi",
+						"padding-left"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"padi",
+						"padding-bottom"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"bottom",
+						"padding-bottom"
+					],
+					[
+						"bordercol",
+						"border-color"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"bak",
+						"background-color"
+					],
+					[
+						"ba",
+						"background-color"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/9no/Programacion CS/angularRUTAS/index.html",
+					"settings":
+					{
+						"buffer_size": 800,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/9no/Programacion CS/angularRUTAS/pages/home.html",
+					"settings":
+					{
+						"buffer_size": 95,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/9no/Programacion CS/angularRUTAS/pages/acerca.html",
+					"settings":
+					{
+						"buffer_size": 87,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/9no/Programacion CS/angularRUTAS/pages/contacto.html",
+					"settings":
+					{
+						"buffer_size": 85,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/9no/Programacion CS/angularRUTAS/main.js",
+					"settings":
+					{
+						"buffer_size": 923,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 390.0,
+				"selected_items":
+				[
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 50.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/9no/Programacion CS/angularRUTAS/main.js",
+				"/E/9no/Programacion CS/todoapp/public/index.html",
+				"/E/9no/Programacion CS/todoapp/server.js",
+				"/E/9no/Programacion CS/todoapp/public/core.js",
+				"/E/9no/Programacion CS/todoapp/package.json",
+				"/E/9no/Programacion CS/almacenJS/index.js",
+				"/E/flatStore/index.html",
+				"/E/9no/Programacion CS/workNodeJS/package.json",
+				"/C/Users/Nohemi/Desktop/proyecto/ProyectoFinalSonghop/songhop/www/templates/discover.html",
+				"/C/Users/Nohemi/Desktop/proyecto/ProyectoFinalSonghop/songhop/www/js/controllers.js",
+				"/C/Users/Nohemi/Desktop/proyecto/ProyectoFinalSonghop/songhop/www/js/services.js",
+				"/C/Users/Nohemi/Desktop/proyecto/ProyectoFinalSonghop/songhop/www/js/app.js",
+				"/C/Users/Nohemi/Desktop/proyecto/ProyectoFinalSonghop/songhop/www/index.html",
+				"/C/Users/Nohemi/Desktop/proyecto/ProyectoFinalSonghop/songhop/scss/ionic.app.scss",
+				"/C/Users/Nohemi/proyecto/ProyectoFinalSonghop/songhop/www/templates/discover.html",
+				"/C/Users/Nohemi/proyecto/ProyectoFinalSonghop/songhop/www/js/controllers.js",
+				"/C/Users/Nohemi/proyecto/ProyectoFinalSonghop/songhop/www/js/services.js",
+				"/C/Users/Nohemi/proyecto/ProyectoFinalSonghop/songhop/www/js/app.js",
+				"/C/Users/Nohemi/proyecto/ProyectoFinalSonghop/songhop/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Angular Exercises/Exercise 1/public/package.json",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Angular Exercises/Exercise 1/js/books.js",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Angular Exercises/Exercise 1/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Angular Exercises/Exercise 1/package.js",
+				"/D/Exercises/css/style1.css",
+				"/D/Exercises/Excercises9.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 6/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 7/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 5/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/workspace/Glossary/css/each.css",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/zoror/css/style.css",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/zoror/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 4/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 3/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 2/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 1/www/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/bootstrapex/badged-labels.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 1/index.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/Bootstrap Exercises/Exercise 1/css/main.css",
+				"/C/Users/Nohemi/Desktop/navbar.html",
+				"/C/Users/Nohemi/Desktop/inputs.html",
+				"/C/Users/Nohemi/Desktop/forms.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/bootstrapex/icons.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/bootstrapex/tables.html",
+				"/E/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/bootstrapex/jumbotron.html",
+				"/D/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/30.whack-js/index.html",
+				"/D/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/29.countdown-js/index.html",
+				"/D/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/28.controller-js/index.html",
+				"/D/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/27.click-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/29 - Countdown Timer/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/29 - Countdown Timer/scripts-FINISHED.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/29 - Countdown Timer/style.css",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/28 - Video Speed Controller/style.css",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/28 - Video Speed Controller/index-FINISHED.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/27 - Click and Drag/style.css",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30-master/JavaScript30-master/27 - Click and Drag/index-FINISHED.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/25.event-js/js/event.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/25.event-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/26.stripe-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/24.sicky-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/23.synthesis-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/22.follow-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/21.geolocation-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/20.speech-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/19.webcam-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/18.addingup-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/17.sort-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/16.mousemove-js/index.html",
+				"/D/workspace/Glossary/css/each.css",
+				"/D/workspace/Glossary/start.html",
+				"/D/workspace/Glossary/span.html",
+				"/D/workspace/Glossary/replace.html",
+				"/D/workspace/Glossary/video.html",
+				"/D/workspace/Glossary/option.html",
+				"/D/workspace/Glossary/object.html",
+				"/D/workspace/Glossary/nav.html",
+				"/D/workspace/Glossary/label.html",
+				"/D/workspace/Glossary/kbd.html",
+				"/D/workspace/Glossary/input.html",
+				"/D/workspace/Glossary/form.html",
+				"/D/workspace/Glossary/em.html",
+				"/D/workspace/Glossary/document.html",
+				"/D/workspace/Glossary/div.html",
+				"/D/workspace/Glossary/canvas.html",
+				"/D/workspace/Glossary/button.html",
+				"/D/workspace/Glossary/audio.html",
+				"/D/workspace/Glossary/array.html",
+				"/D/workspace/Glossary/css/style.css",
+				"/D/workspace/Glossary/apply.html",
+				"/D/VarelaGonzalezNohemiBerenice_13550649_unit1HTML5/Excercise1/index.html",
+				"/D/workspace/unit II/bootstrapex/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/26.stripe-js/js/stripe.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/24.sicky-js/js/sticky.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/23.synthesis-js/js/synthesis.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/22.follow-js/js/follow.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/21.geolocation-js/js/geolocation.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/20.speech-js/js/speech.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/19.webcam-js/js/webcam.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/18.addingup-js/js/addingup.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/17.sort-js/js/sort.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/16.mousemove-js/js/mousemove.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/15.localstorage-js/js/localstorage.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/15.localstorage-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/14.references-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/14.references-js/js/references.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/13.slide-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/13.slide-js/js/slide.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/12.key-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/12.key-js/js/key.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/10.checkboxes-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/10.checkboxes-js/js/checkboxes.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/9.devtools-js/js/devtools.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/9.devtools-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/8.html5-js/js/html5.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/8.html5-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/7.cardio2-js/js/cardio2.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/7.cardio2-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/6.type-js/js/type.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/6.type-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/5.gallery-js/js/gallery.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/5.gallery-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/4.cardio1-js/js/cardio1.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/4.cardio1-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/3.variables-js/js/variables.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/3.variables-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/2.clock-js/css/style.css",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/2.clock-js/index.html",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/2.clock-js/js/clock.js",
+				"/D/respaldo nohemi/8vo/Desarrollo de Aplicaciones en Dispositivos Moviles/JavaScript30/1.drum-js/css/style.css"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"img",
+					" \n",
+					"jpg",
+					"canvas",
+					";\n",
+					"\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/E/9no/Programacion CS/angularRUTAS"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/9no/Programacion CS/angularRUTAS/index.html",
+							"settings":
+							{
+								"buffer_size": 800,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										455,
+										455
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/9no/Programacion CS/angularRUTAS/pages/home.html",
+							"settings":
+							{
+								"buffer_size": 95,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										95,
+										95
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/9no/Programacion CS/angularRUTAS/pages/acerca.html",
+							"settings":
+							{
+								"buffer_size": 87,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										87,
+										87
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/9no/Programacion CS/angularRUTAS/pages/contacto.html",
+							"settings":
+							{
+								"buffer_size": 85,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										85,
+										85
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/9no/Programacion CS/angularRUTAS/main.js",
+							"settings":
+							{
+								"buffer_size": 923,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										923,
+										923
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,2,3,-1,-1,-1,-1,384,388,109,1006",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 133.0,
+			"status_bar_visible": true,
+			"window_id": 102,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

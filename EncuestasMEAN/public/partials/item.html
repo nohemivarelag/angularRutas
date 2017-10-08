@@ -1,0 +1,13 @@
+&lt;div class="page-header"&gt; &lt;h1&gt;View Poll&lt;/h1&gt; &lt;/div&gt; &lt;div class="well well-lg"&gt; &lt;strong&gt;Question&lt;/
+strong&gt;&lt;br&gt;{{poll.question}} &lt;/div&gt; &lt;div ng-hide="poll.userVoted"&gt; &lt;p class="lead"&gt;Please select one of the following options.&lt;/
+p&gt; &lt;form role="form" ng-submit="vote()"&gt; &lt;div ng-repeat="choice in poll.choices" class="radio"&gt; &lt;label&gt; &lt;input type="radio"
+ name="choice" ng-model="poll.userVote" value="{{choice._id}}"&gt; {{choice.text}} &lt;/label&gt; &lt;/div&gt; &lt;p&gt;&lt;hr&gt;&lt;/p&gt; &lt;div
+ class="row"&gt; &lt;div class="col-xs-6"&gt; &lt;a href="#/polls" class="btn btn-default" role="button"&gt;&lt;span class="glyphicon glyphicon-arrowleft"&gt;&lt;/span&gt;
+Back to Poll &lt;/div&gt; &lt;div class="col-xs-6"&gt; &lt;button class="btn btn-primary pull-right" type="submit"&gt; Vote
+ &amp;raquo;&lt;/button&gt; &lt;/div&gt; &lt;/div&gt; &lt;/form&gt; &lt;/div&gt; &lt;div ng-show="poll.userVoted"&gt; &lt;table class="result-table"&gt;
+ &lt;tbody&gt; &lt;tr ng-repeat="choice in poll.choices"&gt; &lt;td&gt;{{choice.text}}&lt;/td&gt; &lt;td&gt; &lt;table style="width: {{choice.votes.length /
+poll.totalVotes*100}}%;"&gt; &lt;tr&gt;&lt;td&gt;{{choice.votes.length}}&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt; &lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
+ &lt;/table&gt; &lt;p&gt;&lt;em&gt;{{poll.totalVotes}} votes counted so far. &lt;span ng-show="poll.userChoice"&gt;You voted for &lt;strong&gt;
+{{poll.userChoice.text}} &lt;/strong&gt;.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;hr&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="#/polls" class="btn
+ btn-default" role="button"&gt; &lt;span class="glyphicon glyphicon-arrow-left"&gt;&lt;/span&gt; Back to Poll List&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;
+ &lt;p&gt;&amp;nbsp;&lt;/p&gt;

@@ -1,0 +1,18 @@
+{
+  "name": "encuestas",
+  "version": "1.0.0",
+  "description": "encuestas mean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nohemi varela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "jade": "^1.11.0",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.12.0",
+    "socket.io": "^2.0.3"
+  }
+}

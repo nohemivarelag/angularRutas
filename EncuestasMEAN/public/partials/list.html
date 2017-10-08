@@ -1,0 +1,6 @@
+&lt;div class="page-header"&gt; &lt;h1&gt;Poll List&lt;/h1&gt; &lt;/div&gt; &lt;div class="row"&gt; &lt;div class="col-xs-5"&gt; &lt;a href="#/new"
+class="btn btn-default"&gt;&lt;span class="glyphicon glyphicon-plus"&gt;&lt;/span&gt; New Poll&lt;/a&gt; &lt;/div&gt; &lt;div class="col-xs-7"&gt; &lt;input
+type="text" class="form-control" ng-model="query" placeholder="Search for a poll"&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class="row"&gt;&lt;div class="colxs-12"&gt;
+&lt;hr&gt;&lt;/div&gt;&lt;/div&gt; &lt;div class="row" ng-switch on="polls.length"&gt; &lt;ul ng-switch-when="0"&gt; &lt;li&gt;&lt;em&gt;No
+polls in database. Would you like to &lt;a href="#/new"&gt;create one&lt;/a&gt;?&lt;/li&gt; &lt;/ul&gt; &lt;ul ng-switch-default&gt; &lt;li ng-repeat="poll in
+polls | filter:query"&gt; &lt;a href="#/poll/{{poll._id}}"&gt;{{poll.question}}&lt;/a&gt; &lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;
